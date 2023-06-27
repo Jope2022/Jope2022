@@ -29,7 +29,7 @@ Creo mucho en la reciprocidad y busco ofrecer a las empresas lo que me gustaría
     https://www.linkedin.com/in/jose-perez-4a4741278/
 
 
-💻 ¿Qué tecnologías que utilizo?
+💻 ¿Qué tecnologías utilizo?
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 El bootcamp de Henry me ha permitido adquirir los conocimientos y la experiencia fundamental para despegar. Algunas de las principales tecnologías que manejan son:
 # HTML 
