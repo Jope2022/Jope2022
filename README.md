@@ -14,8 +14,8 @@ Mi objetivo Profesional es aprovechar mis habilidades y conocimientos de program
 
 Creo mucho en la reciprocidad y busco ofrecer a las empresas lo que me gustaría recibir como desarrollador. Esto implica una comunicación clara y abierta, un trabajo en equipo eficaz y un enfoque orientado a los resultados. Me esfuerzo por establecer relaciones de colaboración basadas en la confianza y la transparencia. Los desafíos son mi motivación y siempre busco explorar nuevas tecnologías. Disfruto de la satisfacción de adquirir nuevas herramientas a través de la práctica, lo que me permite optimizar mi código y mantenerme actualizado en un campo tan dinámico como el desarrollo web.
 
+![image](https://github.com/Jope2022/Jope2022/assets/108070473/9e22e483-2b08-4e38-a36e-9d0aad152ec6)
 
-![image](https://github.com/Jope2022/JosePerez/assets/108070473/ff9fadf2-5e87-4ce7-a993-d4b7cc9b059a)
 
 🌐 Socials:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
