@@ -19,7 +19,7 @@ Creo mucho en la reciprocidad y busco ofrecer a las empresas lo que me gustaría
 🌐 Socials:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📫 How to reach me:
+📫 ¡No dude en ponerse en contacto conmigo!
  
  CORREO
     jopeperez@live.com.ar
