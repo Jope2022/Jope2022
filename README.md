@@ -9,6 +9,7 @@ Mi objetivo Profesional es aprovechar mis habilidades y conocimientos de program
 
 💫 Siempre estoy abierto a nuevas oportunidades y nuevos desafíos, descubri este mundo de la programacion y ahora le dedico el 100% de mi tiempo a seguir aprendiendo. Me caracterizo por ser una persona autodidacta, atenta y con capacidad de adaptación a las nuevas tecnologías.
 
+
 ¿Hacia dónde me dirijo?
 
 Creo mucho en la reciprocidad y busco ofrecer a las empresas lo que me gustaría recibir como desarrollador. Esto implica una comunicación clara y abierta, un trabajo en equipo eficaz y un enfoque orientado a los resultados. Me esfuerzo por establecer relaciones de colaboración basadas en la confianza y la transparencia. Los desafíos son mi motivación y siempre busco explorar nuevas tecnologías. Disfruto de la satisfacción de adquirir nuevas herramientas a través de la práctica, lo que me permite optimizar mi código y mantenerme actualizado en un campo tan dinámico como el desarrollo web.
